@@ -1,6 +1,6 @@
 dict = {
 	"name" : "bhargav",
-	"age"  : 18,
+	"age"  : 28,
 	"height" : "5feet"
 }
 
@@ -10,14 +10,14 @@ print(dict)
 ##
 dict1 = {
 	'name' : 'bhargav',
-	'age' : 18,
+	'age' : 20,
 	'mark' : 90
 }
 
 
 dict2 = {
 	'name' : 'bhargav1',
-	'age' : 181,
+	'age' : 182,
 	'mark' : 901
 }
 
